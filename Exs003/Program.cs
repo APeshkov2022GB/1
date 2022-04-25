@@ -2,7 +2,7 @@
 //Console.WriteLine("Hello, World!");
 
 
-int namberA = 3;
+int namberA = 31;
 int namberB = 5;
 int result = namberA + namberB;
 Console.WriteLine(result);
