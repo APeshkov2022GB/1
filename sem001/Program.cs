@@ -9,5 +9,5 @@ Console.WriteLine("Введите число ");
 string a = Console.ReadLine();
 int x = int.Parse(a);
 int kvadrat = x*x;
-Console.Write(" Квадрат числа = ");
+Console.Write("Квадрат числа = ");
 Console.WriteLine(kvadrat);
