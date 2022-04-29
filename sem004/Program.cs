@@ -7,7 +7,7 @@ int min = -x;
 while(min <= x)
 {
     //Console.WriteLine(" " + min);  или // console.WriteLine(min); столбиком виведет значения
-    Console.Write(" " + min); // Console.Write(min + " ");
+    Console.Write(" " + min);  // Console.Write(min + " ");
     //min = min +1; min += 1;
     min++;
 }
