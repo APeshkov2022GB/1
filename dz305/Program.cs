@@ -8,5 +8,4 @@ while ( count > 0)
     index = index + digit; //
     count = count / 10; //
 }
-
 Console.WriteLine(index);
