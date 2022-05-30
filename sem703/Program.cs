@@ -22,11 +22,11 @@ void PrintArray(int[,] matr)
 } 
 double MeanAriphm(int[,] matr, int column)
 {
-    double sum = 0;
+    double sum = 0; // int sum = 0;
     for (int i = 0; i < matr.GetLength(0); i++)
         sum = sum + matr[i,column];
         //Console.Write(sum + " ");
-    return sum / matr.GetLength(0);
+    return sum / matr.GetLength(0);  // return (double) sum / matr.GetLength(0);
 }
 Console.Clear();
 Console.WriteLine("Введите кол-во строк: ");
