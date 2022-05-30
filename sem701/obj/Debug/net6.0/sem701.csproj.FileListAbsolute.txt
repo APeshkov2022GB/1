@@ -1,0 +1,15 @@
+C:\Обучение GB\С Sharp\1\sem701\bin\Debug\net6.0\sem701.exe
+C:\Обучение GB\С Sharp\1\sem701\bin\Debug\net6.0\sem701.deps.json
+C:\Обучение GB\С Sharp\1\sem701\bin\Debug\net6.0\sem701.runtimeconfig.json
+C:\Обучение GB\С Sharp\1\sem701\bin\Debug\net6.0\sem701.dll
+C:\Обучение GB\С Sharp\1\sem701\bin\Debug\net6.0\sem701.pdb
+C:\Обучение GB\С Sharp\1\sem701\obj\Debug\net6.0\sem701.csproj.AssemblyReference.cache
+C:\Обучение GB\С Sharp\1\sem701\obj\Debug\net6.0\sem701.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обучение GB\С Sharp\1\sem701\obj\Debug\net6.0\sem701.AssemblyInfoInputs.cache
+C:\Обучение GB\С Sharp\1\sem701\obj\Debug\net6.0\sem701.AssemblyInfo.cs
+C:\Обучение GB\С Sharp\1\sem701\obj\Debug\net6.0\sem701.csproj.CoreCompileInputs.cache
+C:\Обучение GB\С Sharp\1\sem701\obj\Debug\net6.0\sem701.dll
+C:\Обучение GB\С Sharp\1\sem701\obj\Debug\net6.0\refint\sem701.dll
+C:\Обучение GB\С Sharp\1\sem701\obj\Debug\net6.0\sem701.pdb
+C:\Обучение GB\С Sharp\1\sem701\obj\Debug\net6.0\sem701.genruntimeconfig.cache
+C:\Обучение GB\С Sharp\1\sem701\obj\Debug\net6.0\ref\sem701.dll
