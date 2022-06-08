@@ -1,0 +1,15 @@
+C:\Обучение GB\С Sharp\1\sem801\obj\Debug\net6.0\sem801.csproj.AssemblyReference.cache
+C:\Обучение GB\С Sharp\1\sem801\obj\Debug\net6.0\sem801.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обучение GB\С Sharp\1\sem801\obj\Debug\net6.0\sem801.AssemblyInfoInputs.cache
+C:\Обучение GB\С Sharp\1\sem801\obj\Debug\net6.0\sem801.AssemblyInfo.cs
+C:\Обучение GB\С Sharp\1\sem801\obj\Debug\net6.0\sem801.csproj.CoreCompileInputs.cache
+C:\Обучение GB\С Sharp\1\sem801\bin\Debug\net6.0\sem801.exe
+C:\Обучение GB\С Sharp\1\sem801\bin\Debug\net6.0\sem801.deps.json
+C:\Обучение GB\С Sharp\1\sem801\bin\Debug\net6.0\sem801.runtimeconfig.json
+C:\Обучение GB\С Sharp\1\sem801\bin\Debug\net6.0\sem801.dll
+C:\Обучение GB\С Sharp\1\sem801\bin\Debug\net6.0\sem801.pdb
+C:\Обучение GB\С Sharp\1\sem801\obj\Debug\net6.0\sem801.dll
+C:\Обучение GB\С Sharp\1\sem801\obj\Debug\net6.0\refint\sem801.dll
+C:\Обучение GB\С Sharp\1\sem801\obj\Debug\net6.0\sem801.pdb
+C:\Обучение GB\С Sharp\1\sem801\obj\Debug\net6.0\sem801.genruntimeconfig.cache
+C:\Обучение GB\С Sharp\1\sem801\obj\Debug\net6.0\ref\sem801.dll
