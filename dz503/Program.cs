@@ -42,3 +42,5 @@ for (int i =0; i < matrix.GetLength(0); i++)
         }  
     }
 PrintArray(matrix1);
+
+Console.WriteLine("Программа работу закончила");
